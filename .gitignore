@@ -1,0 +1,17 @@
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+*.jar
+*.war
+*.ear
+xtend-gen/
+target/
+# Eclipse Core
+.project
+.classpath
